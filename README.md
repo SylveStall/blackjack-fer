@@ -11,3 +11,4 @@ Pasos para ejecutar el proyecto
 
 1. Ejecutar `npm run build`
 2. Tomar la carpeta `dist` y despleagarla
+3. Se puede hacer tanto en `github` como en `netlify`
